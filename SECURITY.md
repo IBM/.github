@@ -1,17 +1,9 @@
-# Overview 
+# Security
 
-This IBM Open-Source repository is not maintained. It is provided “as‑is”, without warranties or guarantees, and use is at your own risk. IBM does not monitor or remediate security issues in this repository. 
+## Reporting Security Issues
 
-# Reporting 
+**Please do not report security vulnerabilities through public GitHub issues.**
 
-Do not submit vulnerability reports for this repository. Issues, pull requests, or security reports will neither be triaged nor addressed. 
+The easiest way to report a security issue is privately through GitHub. See [Privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability) for full instructions.
 
- # Risk Notice 
-
-This code may contain vulnerabilities and may depend on outdated third‑party components. 
-
-Consumers should perform their own risk assessment and testing, including dependency scanning and SBOM generation (SPDX/CycloneDX).  
-
-# License & Warranty 
-
-This repository license governs permissible use. There is no support, no patches, and no coordinated disclosure process for this repo. 
+Alternatively, you can report a security issue via e-mail or anonymous form to the IBM Product Security Incident Response Team (PSIRT) following the guidelines under the [IBM Security Vulnerability Management](https://www.ibm.com/support/pages/ibm-security-vulnerability-management) pages.
